@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-file-manager",
+  "version": "1.0.0",
+  "description": "Simple CLI File Manager",
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "type": "module",
+  "scripts": {
+    "start": "node src/main/runApp.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gavrylyuk/nodejs-file-manager.git"
+  },
+  "author": "ggavryliuk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gavrylyuk/nodejs-file-manager/issues"
+  },
+  "homepage": "https://github.com/gavrylyuk/nodejs-file-manager#readme"
+}
