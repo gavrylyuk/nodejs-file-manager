@@ -1,4 +1,5 @@
 import { homedir } from 'node:os';
+import { cwd, chdir } from "node:process";
 import { userName } from './utils/user.js';
 import { startCLI } from './main/startCLI.js';
 
